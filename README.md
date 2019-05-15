@@ -1,3 +1,8 @@
+---
+layout: default
+title: 👨‍💻 👩‍💻
+---
+
 ## Chi siamo
 
 * Community indipendente di sviluppatori software professionisti a Pisa e dintorni
