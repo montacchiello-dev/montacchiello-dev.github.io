@@ -1,5 +1,7 @@
 ---
+layout: default
 title: 👨‍💻 👩‍💻
+permalink: /index.html
 ---
 
 ## Chi siamo
