@@ -6,7 +6,7 @@
 
 ## Come contattarci
 
-* [Slack](https://montacchiello-invites.herokuapp.com/)
+* [Slack](https://montacchiello.slack.com) ([richiedi invito](https://montacchiello-invites.herokuapp.com/))
 * [Mail](mailto:montacchiello@gionn.net)
 
 ## Eventi (apericoder)
