@@ -1,7 +1,9 @@
 theme: jekyll-theme-cayman
+url: https://gionn.github.io/montacchiello-developers/
 title: Montacchiello Developers
 description: Community indipendente di sviluppatori software professionali a Pisa e dintorni
 google_analytics: UA-107557-24
 github:
   is_project_page: false
-  
+plugins:
+  - jekyll-sitemap
