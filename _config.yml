@@ -1,1 +1,6 @@
 theme: jekyll-theme-cayman
+title: Montacchiello Developers
+description: Community indipendente di sviluppatori software professionali a Pisa e dintorni
+github:
+  is_project_page: false
+  
