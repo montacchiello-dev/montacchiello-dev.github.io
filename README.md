@@ -15,6 +15,10 @@ permalink: /index.html
 * [Slack](https://montacchiello.slack.com) ([richiedi invito](https://montacchiello-invites.herokuapp.com/))
 * [Mail](mailto:montacchiello@gionn.net)
 
+## Newsletter eventi
+
+Per non perdere i prossimi eventi, [iscriviti alla newsletter 📨](http://eepurl.com/gqRfon).
+
 ## Eventi (apericoder)
 
 * 2019-05-16 [Web Component: il futuro è arrivato](https://www.eventbrite.it/e/biglietti-web-component-il-futuro-e-arrivato-apericoder-60531057021) di Andrea Chiarelli
