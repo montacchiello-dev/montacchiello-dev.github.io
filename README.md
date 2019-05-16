@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 👨‍💻 Welcome 👩‍💻
+title: 👩‍💻 👨‍💻 Homepage
 permalink: /index.html
 ---
 
