@@ -14,6 +14,7 @@ permalink: /index.html
 
 * [Slack](https://montacchiello.slack.com) ([richiedi invito](https://montacchiello-invites.herokuapp.com/))
 * [Mail](mailto:montacchiello@gionn.net)
+* [Proponi un talk](https://forms.gle/pZEhv3WJjmNcVdHL6)
 
 ## Newsletter eventi
 
