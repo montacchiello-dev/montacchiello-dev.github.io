@@ -22,6 +22,7 @@ Per non perdere i prossimi eventi, [iscriviti alla newsletter 📨](http://eepur
 
 ## Eventi (apericoder)
 
+* 2019-06-27 [Code reviews](https://www.eventbrite.it/e/biglietti-code-reviews-apericoder-62586522975) di Giovanni Toraldo
 * 2019-05-16 [Web Component: il futuro è arrivato](https://www.eventbrite.it/e/biglietti-web-component-il-futuro-e-arrivato-apericoder-60531057021) di Andrea Chiarelli
   * [✍️ Feedback](https://forms.gle/sHEPCLJhdc7BWEZY7)
   * [💾 Slides](/slides/2019-05-17-web-components.pdf)
