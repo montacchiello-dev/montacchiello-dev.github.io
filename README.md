@@ -6,9 +6,11 @@ permalink: /index.html
 
 ## Chi siamo
 
-* Community indipendente di sviluppatori software professionisti a Pisa e dintorni
-* Conoscenza condivisa e collaborazione per migliorarsi
-* Metodologie di sviluppo più che singole tecnologie
+* Siamo una community indipendente di sviluppatori software professionisti a
+  Pisa e dintorni
+* Promuoviamo la conoscenza condivisa e la collaborazione per migliorarsi
+* Preferiamo parlare di metodologie di sviluppo e buone pratiche più che singoli
+  strumenti o tecnologie
 
 ## Eventi (apericoder)
 * 2019-07-25 - [Docker pitfalls](https://www.eventbrite.it/e/biglietti-docker-pitfalls-apericoder-65511932955)
@@ -19,8 +21,8 @@ permalink: /index.html
 
 ## Come contattarci
 
-* [Slack](https://montacchiello.slack.com) ([richiedi invito](https://montacchiello-invites.herokuapp.com/))
-* [Mail](mailto:montacchiello@gionn.net)
+* Chatta su [Slack](https://montacchiello.slack.com) ([richiedi invito](https://montacchiello-invites.herokuapp.com/))
+* Scrivici una [email](mailto:montacchiello@gionn.net)
 * [Proponi un talk](https://forms.gle/pZEhv3WJjmNcVdHL6)
 
 ## Newsletter eventi
