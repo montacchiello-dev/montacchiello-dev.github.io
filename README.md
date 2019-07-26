@@ -13,6 +13,7 @@ permalink: /index.html
   strumenti o tecnologie
 
 ## Eventi (apericoder)
+
 * 2019-07-25 - [Docker pitfalls](https://www.eventbrite.it/e/biglietti-docker-pitfalls-apericoder-65511932955)
   di Manuel Mazzuola - [✍️ Feedback](https://forms.gle/xer3GpVbW1j2bnyz5)
 * 2019-06-27 - [Code reviews](https://www.eventbrite.it/e/biglietti-code-reviews-apericoder-62586522975)
@@ -22,9 +23,16 @@ permalink: /index.html
 ## Come contattarci
 
 * Chatta su [Slack](https://montacchiello.slack.com) ([richiedi invito](https://montacchiello-invites.herokuapp.com/))
-* Scrivici una [email](mailto:montacchiello@gionn.net)
+* Scrivici una [email](mailto:info@montacchiello.dev)
 * [Proponi un talk](https://forms.gle/pZEhv3WJjmNcVdHL6)
 
 ## Newsletter eventi
 
 Per non perdere i prossimi eventi, [iscriviti alla newsletter 📨](http://eepurl.com/gqRfon).
+
+## Sponsors
+
+* [Gruppo Forti](https://www.gruppoforti.it/)
+* [Talent Garden Pisa](https://talentgarden.org/it/campus/italia/pisa/)
+
+Vuoi sponsorizzare un nostro evento? Scrivici una [email](mailto:sponsors@montacchiello.dev).
