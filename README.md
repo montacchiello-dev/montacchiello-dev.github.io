@@ -34,7 +34,7 @@ Per non perdere i prossimi eventi, [iscriviti alla newsletter 📨](http://eepur
 
 ## Sponsors
 
-* [Gruppo Forti](https://www.gruppoforti.it/)
-* [Talent Garden Pisa](https://talentgarden.org/it/campus/italia/pisa/)
+* [Gruppo Forti](https://www.gruppoforti.it/){:rel="nofollow sponsored"}
+* [Talent Garden Pisa](https://talentgarden.org/it/campus/italia/pisa/){:rel="nofollow sponsored"}
 
 Vuoi sponsorizzare un nostro evento? Scrivici una [email](mailto:sponsors@montacchiello.dev).
