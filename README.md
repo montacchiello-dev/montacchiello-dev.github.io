@@ -15,7 +15,8 @@ permalink: /index.html
 ## Eventi (apericoder)
 
 * 2019-09-24 - [Story of a long running opensource project](https://www.eventbrite.it/e/biglietti-story-of-a-long-running-opensource-project-apericoder-71802028801)
-  di Mauro Bartolomeoli
+  di Mauro Bartolomeoli<br/>
+  [💾 Slides](/slides/2019-09-24-story-of-a-long-running-opensource-project.pdf) [✍️ Feedback](https://docs.google.com/forms/d/e/1FAIpQLSfDzeDMhzuvosd9Qq2zpi8kYnWLDQWInvam47ZPMhD1T9f87A/viewform?usp=sf_link)
 * 2019-07-25 - [Docker pitfalls](https://www.eventbrite.it/e/biglietti-docker-pitfalls-apericoder-65511932955)
   di Manuel Mazzuola - [💾 Slides](https://speakerdeck.com/of/docker-pitfalls)
 * 2019-06-27 - [Code reviews](https://www.eventbrite.it/e/biglietti-code-reviews-apericoder-62586522975)
