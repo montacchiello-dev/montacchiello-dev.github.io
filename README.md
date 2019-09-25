@@ -39,3 +39,7 @@ Per non perdere i prossimi eventi, [iscriviti alla newsletter 📨](http://eepur
 * [Talent Garden Pisa](https://talentgarden.org/it/campus/italia/pisa/){:rel="nofollow sponsored"}
 
 Vuoi sponsorizzare un nostro evento? Scrivici una [email](mailto:sponsors@montacchiello.dev).
+
+## Gallery
+
+![apericoder 2019-09-25](/images/2019-09-25-montacchiello-dev.jpeg)
