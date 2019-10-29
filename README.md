@@ -44,6 +44,7 @@ Vuoi sponsorizzare un nostro evento? Scrivici una [email](mailto:sponsors@montac
 
 ## Gallery
 
+![apericoder ottobre 2019](images/2019-10-29-giacomo-bagnoli-facebook-monitoring.jpg)
 ![apericoder settembre 2019](/images/2019-09-25-montacchiello-dev.jpeg)
 ![apericoder luglio 2019](/images/2019-07-25-docker-containers.jpeg)
 ![apericoder giugno 2019](/images/2019-06-27-code-reviews.jpeg)
