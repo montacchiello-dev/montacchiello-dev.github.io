@@ -20,7 +20,7 @@ Per non perdere i prossimi eventi, [iscriviti alla newsletter 📨](http://eepur
 
 [Proponi il prossimo talk!](https://forms.gle/pZEhv3WJjmNcVdHL6)
 
-* 2019-10-29 - [Monitorare una grande infrastruttura in produzione](https://www.eventbrite.it/e/biglietti-monitorare-una-grande-infrastruttura-in-produzione-apericoder-76231493449) di Giacomo Bagnoli
+* 2019-10-29 - [Monitorare una grande infrastruttura in produzione](https://www.eventbrite.it/e/biglietti-monitorare-una-grande-infrastruttura-in-produzione-apericoder-76231493449) di Giacomo Bagnoli - [📝 Lascia il tuo feedback](https://forms.gle/5qpwkMH98LvLm2Qd8)
 * 2019-09-24 - [Story of a long running opensource project](https://www.eventbrite.it/e/biglietti-story-of-a-long-running-opensource-project-apericoder-71802028801)
   di Mauro Bartolomeoli [💾 Slides](/slides/2019-09-24-story-of-a-long-running-opensource-project.pdf)
 * 2019-07-25 - [Docker pitfalls](https://www.eventbrite.it/e/biglietti-docker-pitfalls-apericoder-65511932955)
