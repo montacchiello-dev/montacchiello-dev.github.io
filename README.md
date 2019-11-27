@@ -32,6 +32,7 @@ Per non perdere i prossimi eventi, [iscriviti alla newsletter 📨](http://eepur
 
 ## Come contattarci
 
+* ([Proponi un argomento](https://forms.gle/pZEhv3WJjmNcVdHL6) per il prossimo apericoder
 * Chatta con noi su [Slack](https://montacchiello.slack.com) ([richiedi invito](https://montacchiello-invites.herokuapp.com/))
 * Chatta con noi sul canale [Telegram](https://t.me/joinchat/AB-kXVDvi56sg5ENu1edIA)
 * Scrivi una [email](mailto:info@montacchiello.dev) agli organizzatori
