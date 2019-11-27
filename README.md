@@ -46,6 +46,8 @@ Vuoi sponsorizzare un nostro evento? Scrivici una [email](mailto:sponsors@montac
 
 ## Gallery
 
+Pubblicate le foto scattate agli eventi con hashtag [#apericoder](https://twitter.com/search?q=%23apericoder)
+
 ![apericoder novembre 2019](/images/2019-11-26-federico-paolinelli-grpc.jpg)
 ![apericoder ottobre 2019](/images/2019-10-29-giacomo-bagnoli-facebook-monitoring.jpg)
 ![apericoder settembre 2019](/images/2019-09-25-montacchiello-dev.jpeg)
