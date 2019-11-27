@@ -20,7 +20,7 @@ Per non perdere i prossimi eventi, [iscriviti alla newsletter 📨](http://eepur
 
 [Proponi il prossimo talk!](https://forms.gle/pZEhv3WJjmNcVdHL6)
 
-* 2019-11-26 - [RPC on steroids con gRPC](https://www.eventbrite.it/e/biglietti-rpc-on-steroids-con-grpc-apericoder-81524697565) di Federico Paolinelli
+* 2019-11-26 - [RPC on steroids con gRPC](https://www.eventbrite.it/e/biglietti-rpc-on-steroids-con-grpc-apericoder-81524697565) di Federico Paolinelli [💾 Slides](https://speakerdeck.com/fedepaol/rpc-on-steroids-with-go-and-grpc)
 * 2019-10-29 - [Monitorare una grande infrastruttura in produzione](https://www.eventbrite.it/e/biglietti-monitorare-una-grande-infrastruttura-in-produzione-apericoder-76231493449) di Giacomo Bagnoli - [💾 Slides](/slides/2019-10-29-facebook-monitoring.pdf)
 * 2019-09-24 - [Story of a long running opensource project](https://www.eventbrite.it/e/biglietti-story-of-a-long-running-opensource-project-apericoder-71802028801)
   di Mauro Bartolomeoli - [💾 Slides](/slides/2019-09-24-story-of-a-long-running-opensource-project.pdf)
@@ -45,7 +45,8 @@ Vuoi sponsorizzare un nostro evento? Scrivici una [email](mailto:sponsors@montac
 
 ## Gallery
 
-![apericoder ottobre 2019](images/2019-10-29-giacomo-bagnoli-facebook-monitoring.jpg)
+![apericoder novembre 2019](/images/2019-11-26-federico-paolinelli-grpc.jpg)
+![apericoder ottobre 2019](/images/2019-10-29-giacomo-bagnoli-facebook-monitoring.jpg)
 ![apericoder settembre 2019](/images/2019-09-25-montacchiello-dev.jpeg)
 ![apericoder luglio 2019](/images/2019-07-25-docker-containers.jpeg)
 ![apericoder giugno 2019](/images/2019-06-27-code-reviews.jpeg)
