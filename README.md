@@ -20,7 +20,7 @@ Per non perdere i prossimi eventi, [iscriviti alla newsletter 📨](http://eepur
 
 [Proponi il prossimo talk!](https://forms.gle/pZEhv3WJjmNcVdHL6)
 
-* 2020-03-20 - [Come tenere un talk](https://www.eventbrite.it/e/biglietti-come-tenere-un-talk-apericoder-97816472703) di Diana Bernabei
+* ~~2020-03-20 - Come tenere un talk di Diana Bernabei~~ Annullato causa [covid-19](http://www.governo.it/it/articolo/coronavirus-firmato-il-dpcm-4-marzo-2020/14241)
 * 2020-02-06 - [Extreme Agile](https://www.eventbrite.it/e/biglietti-extreme-agile-apericoder-90932185615) di Mauro Bartolomeoli - [💾 Slides](https://speakerdeck.com/mbarto/extreme-agile-getting-out-of-a-dystopian-world)
 * 2019-11-26 - [RPC on steroids con gRPC](https://www.eventbrite.it/e/biglietti-rpc-on-steroids-con-grpc-apericoder-81524697565) di Federico Paolinelli - [💾 Slides](https://speakerdeck.com/fedepaol/rpc-on-steroids-with-go-and-grpc)
 * 2019-10-29 - [Monitorare una grande infrastruttura in produzione](https://www.eventbrite.it/e/biglietti-monitorare-una-grande-infrastruttura-in-produzione-apericoder-76231493449) di Giacomo Bagnoli - [💾 Slides](/slides/2019-10-29-facebook-monitoring.pdf)
