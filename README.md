@@ -20,9 +20,7 @@ Per non perdere i prossimi eventi, [iscriviti alla newsletter 📨](http://eepur
 
 [Proponi il prossimo talk!](https://forms.gle/pZEhv3WJjmNcVdHL6)
 
-* 2021-01-22 - Virtual Beer v0 🍺: ripartiamo online per una chiacchierata di
-  un'ora partendo da git in salsa agile e proseguendo su dove la discussione ci
-  porterà! Il link a Google Meet sarà inviato per email a 24 ore dall'evento, registrati alla newsletter!
+* 2021-01-22 - ore 18.30 - [Virtual Beer v0 🍺](/events/2021-virtual-beer-v0.html)
 * ~~2020-03-20 - Come tenere un talk di Diana Bernabei~~ Annullato causa [covid-19](http://www.governo.it/it/articolo/coronavirus-firmato-il-dpcm-4-marzo-2020/14241)
 * 2020-02-06 - [Extreme Agile](https://www.eventbrite.it/e/biglietti-extreme-agile-apericoder-90932185615) di Mauro Bartolomeoli - [💾 Slides](https://speakerdeck.com/mbarto/extreme-agile-getting-out-of-a-dystopian-world)
 * 2019-11-26 - [RPC on steroids con gRPC](https://www.eventbrite.it/e/biglietti-rpc-on-steroids-con-grpc-apericoder-81524697565) di Federico Paolinelli - [💾 Slides](https://speakerdeck.com/fedepaol/rpc-on-steroids-with-go-and-grpc)
