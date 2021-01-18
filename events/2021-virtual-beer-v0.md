@@ -11,7 +11,7 @@ era che un gruppo nato per far incontrare professionisti del software vicini fra
 loro avrebbe giovato poco spostando le attività esclusivamente online.
 
 Nonostante tutto, il nostro **Slack** e il gruppo **Telegram** sono rimasti
-timidamente attivi ed è nato nell'ultima settimana anche un interesse ad
+attivi ed è nato nell'ultima settimana anche un interesse ad
 organizzare un incontro virtuale in modalità disinvolta, con argomento iniziale
 su **Git e branching model agile**, che potrà evolversi o cambiare completamente
 a seconda di come la chiacchierata proseguirà.
