@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Virtual Beer v0
+image: /images/logo-virtual-beer.png
 ---
 
 ## È tempo della prima Virtual Beer!

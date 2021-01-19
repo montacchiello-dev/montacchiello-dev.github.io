@@ -2,6 +2,7 @@
 layout: default
 title: 👩‍💻 👨‍💻 Homepage
 permalink: /index.html
+image: /images/logo.png
 ---
 
 ## Chi siamo
