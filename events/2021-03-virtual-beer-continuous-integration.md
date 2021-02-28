@@ -10,7 +10,7 @@ Ciao,
 
 vi abbiamo chiesto di proporre alcuni argomenti attraverso una [GitHub
 discussion](https://github.com/montacchiello-dev/website/discussions/3), e a
-grande richiesta proponiamo la pratica del **Continuous Integration** come topic
+grande richiesta proponiamo la pratica del **Continuous Integration** come argomento
 principale per la nostra prossima Virtual Beer.
 
 L'appuntamento è per **giovedì 18 Marzo alle 18.30**, avrà la durata di un'ora
