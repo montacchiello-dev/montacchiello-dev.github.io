@@ -50,6 +50,7 @@ Youtube](https://www.youtube.com/channel/UCqkGYVXzZzp4vfprs2k18Kw).
 * [Gruppo Forti](https://www.gruppoforti.it/){:rel="nofollow sponsored"}
 * [Talent Garden Pisa](https://talentgarden.org/it/campus/italia/pisa/){:rel="nofollow sponsored"}
 * [Jetbrains](https://www.jetbrains.com/){:rel="nofollow sponsored"}
+* [Engineering](https://www.eng.it/){:rel="nofollow sponsored"}
 
 Vuoi sponsorizzare un nostro evento? Scrivici una [email](mailto:sponsors@montacchiello.dev).
 
