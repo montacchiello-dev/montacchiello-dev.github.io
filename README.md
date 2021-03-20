@@ -24,8 +24,8 @@ beer](https://github.com/montacchiello-dev/website/discussions/3) oppure
 guardare le registrazioni delle passate Virtual Beer sul nostro [canale
 Youtube](https://www.youtube.com/channel/UCqkGYVXzZzp4vfprs2k18Kw).
 
-* 2021-03-18 - ore 18.30 - [Virtual Beer v2 🍺 ~ Continuous Integration](/events/2021-03-virtual-beer-continuous-integration.md)
-* 2021-02-18 - ore 18.30 - [Virtual Beer v1 🍺 ~ tema libero](/events/2021-02-virtual-beer-v1.md)
+* 2021-03-18 - ore 18.30 - [Virtual Beer v2 🍺 ~ Continuous Integration](/events/2021-03-virtual-beer-continuous-integration.md) - [📺 Guarda](https://www.youtube.com/watch?v=1IWdxjilNJU)
+* 2021-02-18 - ore 18.30 - [Virtual Beer v1 🍺 ~ tema libero](/events/2021-02-virtual-beer-v1.md) - [📺 Guarda](https://www.youtube.com/watch?v=auTkgsymtTU)
 * 2021-01-22 - ore 18.30 - [Virtual Beer v0 🍺 ~ tema libero](/events/2021-virtual-beer-v0.md)
 * 2020-02-06 - [Extreme Agile](https://www.eventbrite.it/e/biglietti-extreme-agile-apericoder-90932185615) di Mauro Bartolomeoli - [💾 Slides](https://speakerdeck.com/mbarto/extreme-agile-getting-out-of-a-dystopian-world)
 * 2019-11-26 - [RPC on steroids con gRPC](https://www.eventbrite.it/e/biglietti-rpc-on-steroids-con-grpc-apericoder-81524697565) di Federico Paolinelli - [💾 Slides](https://speakerdeck.com/fedepaol/rpc-on-steroids-with-go-and-grpc)
