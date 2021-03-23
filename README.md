@@ -15,14 +15,17 @@ image: /images/logo.png
 
 ## Newsletter eventi
 
-Per non perdere i prossimi eventi, [iscriviti alla newsletter 📨](http://eepurl.com/gqRfon).
+Per partecipare alle live dei prossimi eventi, [iscriviti alla newsletter 📨](http://eepurl.com/gqRfon).
 
-## Eventi (apericoder)
+## Eventi (apericoder & virtual beer)
 
-[Proponi il prossimo talk!](https://forms.gle/pZEhv3WJjmNcVdHL6)
+Puoi proporre tu un [argomento per la prossima virtual
+beer](https://github.com/montacchiello-dev/website/discussions/3) oppure
+guardare le registrazioni delle passate Virtual Beer sul nostro [canale
+Youtube](https://www.youtube.com/channel/UCqkGYVXzZzp4vfprs2k18Kw).
 
-* 2021-03-18 - ore 18.30 - [Virtual Beer v2 🍺 ~ Continuous Integration](/events/2021-03-virtual-beer-continuous-integration.md)
-* 2021-02-18 - ore 18.30 - [Virtual Beer v1 🍺 ~ tema libero](/events/2021-02-virtual-beer-v1.md)
+* 2021-03-18 - ore 18.30 - [Virtual Beer v2 🍺 ~ Continuous Integration](/events/2021-03-virtual-beer-continuous-integration.md) - [📺 Guarda](https://www.youtube.com/watch?v=1IWdxjilNJU)
+* 2021-02-18 - ore 18.30 - [Virtual Beer v1 🍺 ~ tema libero](/events/2021-02-virtual-beer-v1.md) - [📺 Guarda](https://www.youtube.com/watch?v=auTkgsymtTU)
 * 2021-01-22 - ore 18.30 - [Virtual Beer v0 🍺 ~ tema libero](/events/2021-virtual-beer-v0.md)
 * 2020-02-06 - [Extreme Agile](https://www.eventbrite.it/e/biglietti-extreme-agile-apericoder-90932185615) di Mauro Bartolomeoli - [💾 Slides](https://speakerdeck.com/mbarto/extreme-agile-getting-out-of-a-dystopian-world)
 * 2019-11-26 - [RPC on steroids con gRPC](https://www.eventbrite.it/e/biglietti-rpc-on-steroids-con-grpc-apericoder-81524697565) di Federico Paolinelli - [💾 Slides](https://speakerdeck.com/fedepaol/rpc-on-steroids-with-go-and-grpc)
@@ -37,16 +40,17 @@ Per non perdere i prossimi eventi, [iscriviti alla newsletter 📨](http://eepur
 
 ## Come contattarci
 
-* [Proponi un argomento](https://forms.gle/pZEhv3WJjmNcVdHL6) per il prossimo apericoder
-* Chatta con noi su [Slack](https://montacchiello.slack.com) ~ [Richiedi invito](https://join.slack.com/t/montacchiello/shared_invite/zt-3kkhjauu-ZoUThV9QLWMnjdmDY9KZRw) oppure scrivici una email
+* [Proponi un argomento](https://github.com/montacchiello-dev/website/discussions/3) per la prossima virtual beer
 * Chatta con noi sul canale [Telegram](https://t.me/joinchat/AB-kXVDvi56sg5ENu1edIA)
+* Chatta con noi su [Slack](https://montacchiello.slack.com) ~ [Richiedi invito](https://join.slack.com/t/montacchiello/shared_invite/zt-3kkhjauu-ZoUThV9QLWMnjdmDY9KZRw)
 * Scrivi una [email](mailto:info@montacchiello.dev) agli organizzatori
 
 ## Sponsors
 
 * [Gruppo Forti](https://www.gruppoforti.it/){:rel="nofollow sponsored"}
 * [Talent Garden Pisa](https://talentgarden.org/it/campus/italia/pisa/){:rel="nofollow sponsored"}
-* [Jetbrains](https://www.jetbrains.com/){:rel="nofollow sponsored"}
+* [JetBrains](https://www.jetbrains.com/){:rel="nofollow sponsored"}
+* [Engineering](https://www.eng.it/){:rel="nofollow sponsored"}
 
 Vuoi sponsorizzare un nostro evento? Scrivici una [email](mailto:sponsors@montacchiello.dev).
 
