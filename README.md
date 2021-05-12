@@ -24,6 +24,7 @@ beer](https://github.com/montacchiello-dev/website/discussions/3) oppure
 guardare le registrazioni delle passate Virtual Beer sul nostro [canale
 Youtube](https://www.youtube.com/channel/UCqkGYVXzZzp4vfprs2k18Kw).
 
+* 2021-05-20 - ore 18.30 - [Virtual Beer v4 🍺 ~ Autenticazione utenti](/events/2021-05-virtual-beer-sso.md)
 * 2021-04-22 - ore 18.30 - [Virtual Beer v3 🍺 ~ Immutable OS](/events/2021-04-virtual-beer-immutable-operating-systems.md)
 * 2021-03-18 - ore 18.30 - [Virtual Beer v2 🍺 ~ Continuous Integration](/events/2021-03-virtual-beer-continuous-integration.md) - [📺 Guarda](https://www.youtube.com/watch?v=1IWdxjilNJU)
 * 2021-02-18 - ore 18.30 - [Virtual Beer v1 🍺 ~ tema libero](/events/2021-02-virtual-beer-v1.md) - [📺 Guarda](https://www.youtube.com/watch?v=auTkgsymtTU)
