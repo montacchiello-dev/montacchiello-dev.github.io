@@ -31,7 +31,7 @@ Youtube](https://www.youtube.com/channel/UCqkGYVXzZzp4vfprs2k18Kw).
 * 2021-01-22 - ore 18.30 - [Virtual Beer v0 🍺 ~ tema libero](/events/2021-virtual-beer-v0.md)
 * 2020-02-06 - [Extreme Agile](https://www.eventbrite.it/e/biglietti-extreme-agile-apericoder-90932185615) di Mauro Bartolomeoli - [💾 Slides](https://speakerdeck.com/mbarto/extreme-agile-getting-out-of-a-dystopian-world)
 * 2019-11-26 - [RPC on steroids con gRPC](https://www.eventbrite.it/e/biglietti-rpc-on-steroids-con-grpc-apericoder-81524697565) di Federico Paolinelli - [💾 Slides](https://speakerdeck.com/fedepaol/rpc-on-steroids-with-go-and-grpc)
-* 2019-10-29 - [Monitorare una grande infrastruttura in produzione](https://www.eventbrite.it/e/biglietti-monitorare-una-grande-infrastruttura-in-produzione-apericoder-76231493449) di Giacomo Bagnoli - [💾 Slides](/slides/2019-10-29-facebook-monitoring.pdf)
+* 2019-10-29 - [Monitorare una grande infrastruttura in produzione](https://www.eventbrite.it/e/biglietti-monitorare-una-grande-infrastruttura-in-produzione-apericoder-76231493449) di Giacomo Bagnoli
 * 2019-09-24 - [Story of a long running opensource project](https://www.eventbrite.it/e/biglietti-story-of-a-long-running-opensource-project-apericoder-71802028801)
   di Mauro Bartolomeoli - [💾 Slides](/slides/2019-09-24-story-of-a-long-running-opensource-project.pdf)
 * 2019-07-25 - [Docker pitfalls](https://www.eventbrite.it/e/biglietti-docker-pitfalls-apericoder-65511932955)
