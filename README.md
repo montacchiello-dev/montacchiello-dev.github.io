@@ -44,8 +44,7 @@ Youtube](https://www.youtube.com/channel/UCqkGYVXzZzp4vfprs2k18Kw).
 
 * [Proponi un argomento](https://github.com/montacchiello-dev/website/discussions/3) per la prossima virtual beer
 * Chatta con noi sul canale [Telegram](https://t.me/joinchat/AB-kXVDvi56sg5ENu1edIA)
-* Chatta con noi su [Slack](https://montacchiello.slack.com) ~ [Richiedi invito](https://join.slack.com/t/montacchiello/shared_invite/zt-3kkhjauu-ZoUThV9QLWMnjdmDY9KZRw)
-* Scrivi una [email](mailto:info@montacchiello.dev) agli organizzatori
+* Scrivi una 📧 a montacchiello at gionn dot net
 
 ## Sponsors
 
