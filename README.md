@@ -54,6 +54,7 @@ Vuoi sponsorizzare un nostro evento? Scrivici una [email](mailto:info@montacchie
 ## Galleria eventi passati
 
 ![apericoder marzo 2026](/images/2026-03-19-apericoder-1.jpg)
+![apericoder dicembre 2025](/images/2025-12-10-apericoder.jpg)
 ![apericoder febbraio 2020](/images/2020-02-06-mauro-bartolomeoli-extreme-agile.jpg)
 ![apericoder novembre 2019](/images/2019-11-26-federico-paolinelli-grpc.jpg)
 ![apericoder ottobre 2019](/images/2019-10-29-giacomo-bagnoli-facebook-monitoring.jpg)
