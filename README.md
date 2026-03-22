@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 👩‍💻 👨‍💻 Homepage
+title: 👩‍💻 👨‍💻 montacchiello.dev
 permalink: /index.html
 image: /images/logo.png
 ---
@@ -13,11 +13,13 @@ image: /images/logo.png
 * Preferiamo parlare di metodologie e buone pratiche di sviluppo più che singoli
   strumenti o tecnologie
 
-## Newsletter eventi
+## Eventi 2026
 
-Per partecipare alle live dei prossimi eventi, [iscriviti alla newsletter 📨](http://eepurl.com/gqRfon).
+* 2026-03-19 - [Apericoder 🍹](/events/2026-03-apericoder.md)
+* 2025-12-10 - Apericoder 🍹
+* 2025-04-02 - Apericoder 🍹
 
-## Eventi (apericoder & virtual beer)
+## Archivio eventi (apericoder & virtual beer)
 
 Puoi proporre tu un [argomento per la prossima virtual
 beer](https://github.com/montacchiello-dev/website/discussions/3) oppure
@@ -42,23 +44,16 @@ Youtube](https://www.youtube.com/channel/UCqkGYVXzZzp4vfprs2k18Kw).
 
 ## Come contattarci
 
-* [Proponi un argomento](https://github.com/montacchiello-dev/website/discussions/3) per la prossima virtual beer
 * Chatta con noi sul canale [Telegram](https://t.me/joinchat/AB-kXVDvi56sg5ENu1edIA)
-* Scrivi una 📧 a montacchiello at gionn dot net
+* Scrivici una [email](mailto:info@montacchiello.dev).
 
 ## Sponsors
 
-* [Gruppo Forti](https://www.gruppoforti.it/){:rel="nofollow sponsored"}
-* [Talent Garden Pisa](https://talentgarden.org/it/campus/italia/pisa/){:rel="nofollow sponsored"}
-* [JetBrains](https://www.jetbrains.com/){:rel="nofollow sponsored"}
-* [Engineering](https://www.eng.it/){:rel="nofollow sponsored"}
+Vuoi sponsorizzare un nostro evento? Scrivici una [email](mailto:info@montacchiello.dev).
 
-Vuoi sponsorizzare un nostro evento? Scrivici una [email](mailto:sponsors@montacchiello.dev).
+## Galleria eventi passati
 
-## Gallery
-
-Pubblicate le foto scattate agli eventi con hashtag [#apericoder](https://twitter.com/search?q=%23apericoder)
-
+![apericoder marzo 2026](/images/2026-03-19-apericoder-1.jpg)
 ![apericoder febbraio 2020](/images/2020-02-06-mauro-bartolomeoli-extreme-agile.jpg)
 ![apericoder novembre 2019](/images/2019-11-26-federico-paolinelli-grpc.jpg)
 ![apericoder ottobre 2019](/images/2019-10-29-giacomo-bagnoli-facebook-monitoring.jpg)
