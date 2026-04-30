@@ -15,6 +15,7 @@ image: /images/logo.png
 
 ## Eventi 2026
 
+* 2026-05-13 - [gRPC nei Microservizi: quando usarlo (e quando no) - APERICODER 🆕](https://www.eventbrite.it/e/grpc-nei-microservizi-quando-usarlo-e-quando-no-apericoder-tickets-1988351894040)
 * 2026-03-19 - [Apericoder 🍹](/events/2026-03-apericoder.md)
 * 2025-12-10 - Apericoder 🍹
 * 2025-04-02 - Apericoder 🍹
