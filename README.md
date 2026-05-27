@@ -13,9 +13,10 @@ image: /images/logo.png
 * Preferiamo parlare di metodologie e buone pratiche di sviluppo più che singoli
   strumenti o tecnologie
 
-## Eventi 2026
+## Eventi
 
-* 2026-05-13 - [gRPC nei Microservizi: quando usarlo (e quando no) - APERICODER 🆕](https://www.eventbrite.it/e/grpc-nei-microservizi-quando-usarlo-e-quando-no-apericoder-tickets-1988351894040)
+* 2026-06-18 - [From zero to embedded Linux with Buildroot 🆕](https://www.eventbrite.it/e/from-zero-to-embedded-linux-with-buildroot-apericoder-tickets-1990348575167)
+* 2026-05-13 - [gRPC nei Microservizi: quando usarlo (e quando no)](https://www.eventbrite.it/e/grpc-nei-microservizi-quando-usarlo-e-quando-no-apericoder-tickets-1988351894040)
 * 2026-03-19 - [Apericoder 🍹](/events/2026-03-apericoder.md)
 * 2025-12-10 - Apericoder 🍹
 * 2025-04-02 - Apericoder 🍹
