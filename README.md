@@ -13,6 +13,11 @@ image: /images/logo.png
 * Preferiamo parlare di metodologie e buone pratiche di sviluppo più che singoli
   strumenti o tecnologie
 
+## Contattaci
+
+* Chatta con noi sul canale [Telegram](https://t.me/joinchat/AB-kXVDvi56sg5ENu1edIA)
+* Scrivici una [email](mailto:info@montacchiello.dev).
+
 ## Eventi
 
 * 2026-06-18 - [From zero to embedded Linux with Buildroot 🆕](https://www.eventbrite.it/e/from-zero-to-embedded-linux-with-buildroot-apericoder-tickets-1990348575167)
@@ -44,12 +49,9 @@ Youtube](https://www.youtube.com/channel/UCqkGYVXzZzp4vfprs2k18Kw).
   di Giovanni Toraldo - [💾 Slides](https://speakerdeck.com/gionn/about-code-review-and-bugs)
 * 2019-05-16 - [Web Component: il futuro è arrivato](https://www.eventbrite.it/e/biglietti-web-component-il-futuro-e-arrivato-apericoder-60531057021) di Andrea Chiarelli - [💾 Slides](/slides/2019-05-17-web-components.pdf)
 
-## Come contattarci
-
-* Chatta con noi sul canale [Telegram](https://t.me/joinchat/AB-kXVDvi56sg5ENu1edIA)
-* Scrivici una [email](mailto:info@montacchiello.dev).
-
 ## Sponsors
+
+* [Montacchiello Campus - Coworking a Pisa](https://montacchiellocampus.it/)
 
 Vuoi sponsorizzare un nostro evento? Scrivici una [email](mailto:info@montacchiello.dev).
 
