@@ -20,7 +20,7 @@ image: /images/logo.png
 
 ## Eventi
 
-* 2026-06-18 - [From zero to embedded Linux with Buildroot 🆕](https://www.eventbrite.it/e/from-zero-to-embedded-linux-with-buildroot-apericoder-tickets-1990348575167)
+* 2026-06-18 - [From zero to embedded Linux with Buildroot](https://www.eventbrite.it/e/from-zero-to-embedded-linux-with-buildroot-apericoder-tickets-1990348575167) - [💾 Slides](/slides/2026-06-18-buildroot.pdf)
 * 2026-05-13 - [gRPC nei Microservizi: quando usarlo (e quando no)](https://www.eventbrite.it/e/grpc-nei-microservizi-quando-usarlo-e-quando-no-apericoder-tickets-1988351894040)
 * 2026-03-19 - [Apericoder 🍹](/events/2026-03-apericoder.md)
 * 2025-12-10 - Apericoder 🍹
@@ -57,6 +57,7 @@ Vuoi sponsorizzare un nostro evento? Scrivici una [email](mailto:info@montacchie
 
 ## Galleria eventi passati
 
+![apericoder giugno 2026](/images/2026-06-18-buildroot-apericoder.jpg)
 ![apericoder marzo 2026](/images/2026-03-19-apericoder-1.jpg)
 ![apericoder dicembre 2025](/images/2025-12-10-apericoder.jpg)
 ![apericoder febbraio 2020](/images/2020-02-06-mauro-bartolomeoli-extreme-agile.jpg)
