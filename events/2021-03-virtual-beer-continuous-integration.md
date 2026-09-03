@@ -2,6 +2,7 @@
 layout: default
 title: Virtual Beer ~ Continuous Integration
 image: /images/logo-virtual-beer.png
+permalink: /events/2021-03-virtual-beer-continuous-integration/
 ---
 
 ## Prossima Virtual Beer a tema: Continuous Integration!
@@ -25,4 +26,4 @@ inviato la mattina del giorno dell'evento agli iscritti alla nostra
 <button onclick="location.href='http://eepurl.com/gqRfon'" type="button">
          Iscriviti alla newsletter per partecipare 📨</button>
 
-[Torna alla Homepage](../)
+[Torna alla Homepage](/)
