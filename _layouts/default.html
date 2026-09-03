@@ -1,0 +1,191 @@
+<!doctype html>
+<html lang="it">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ page.title }} | {{ site.title }}</title>
+    <meta name="description" content="{{ site.description }}">
+    {% if page.image %}<meta property="og:image" content="{{ page.image | absolute_url }}">{% endif %}
+    <link rel="canonical" href="{{ page.url | absolute_url }}">
+    <script>
+      (function () {
+        var savedTheme = localStorage.getItem('montacchiello-theme');
+        document.documentElement.dataset.theme = savedTheme === 'dark' ? 'dark' : 'light';
+      }());
+    </script>
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+    {% if site.google_analytics %}
+      {% include google-analytics.html %}
+    {% endif %}
+  </head>
+  <body class="{% if page.url == '/' or page.url == '/index.html' %}home{% else %}event-page{% endif %}">
+    <header class="site-header">
+      <div class="shell header-inner">
+        <a class="brand" href="{{ '/' | relative_url }}" aria-label="Montacchiello.dev, home">
+          <img src="{{ '/images/logo.png' | relative_url }}" alt="Montacchiello.dev">
+        </a>
+        <nav class="site-nav" aria-label="Navigazione principale">
+          <a href="{{ '/' | relative_url }}#events">Eventi</a>
+          <a href="{{ '/' | relative_url }}#archive">Archivio</a>
+          <a href="{{ '/' | relative_url }}#join">Partecipa</a>
+          <a href="{{ '/' | relative_url }}#gallery">Galleria</a>
+          <a class="nav-cta" href="mailto:info@montacchiello.dev">Contatti <span aria-hidden="true">↗</span></a>
+          <div class="theme-switch">
+            <button type="button" data-theme-toggle aria-label="Attiva il tema scuro" title="Attiva il tema scuro"><span class="theme-icon-light" aria-hidden="true">&#9788;</span><span class="theme-icon-dark" aria-hidden="true">&#9790;</span></button>
+          </div>
+        </nav>
+      </div>
+    </header>
+
+    <main>
+      {% unless page.url == '/' or page.url == '/index.html' %}
+        <div class="shell breadcrumb"><a href="{{ '/' | relative_url }}">← Torna agli eventi</a></div>
+      {% endunless %}
+      <article class="page-content shell">
+        {% if page.image and page.url != '/' and page.url != '/index.html' %}
+          <div class="event-cover"><img src="{{ page.image | relative_url }}" alt=""></div>
+          <h1>{{ page.title }}</h1>
+        {% endif %}
+        {{ content }}
+      </article>
+    </main>
+
+    <div class="gallery-modal" data-gallery-modal hidden role="dialog" aria-modal="true" aria-label="Galleria immagini">
+      <button class="gallery-modal-close" type="button" data-gallery-close aria-label="Chiudi galleria" title="Chiudi">&times;</button>
+      <button class="gallery-modal-arrow gallery-modal-prev" type="button" data-gallery-prev aria-label="Immagine precedente" title="Immagine precedente">&#8592;</button>
+      <figure class="gallery-modal-figure">
+        <img data-gallery-image src="" alt="">
+        <figcaption data-gallery-caption></figcaption>
+      </figure>
+      <button class="gallery-modal-arrow gallery-modal-next" type="button" data-gallery-next aria-label="Immagine successiva" title="Immagine successiva">&#8594;</button>
+    </div>
+
+    <footer class="site-footer">
+      <div class="shell footer-grid">
+        <div>
+          <p class="footer-kicker">Montacchiello.dev</p>
+        </div>
+        <div class="footer-links">
+          <a href="https://t.me/joinchat/AB-kXVDvi56sg5ENu1edIA">Telegram <span aria-hidden="true">↗</span></a>
+          <a href="mailto:info@montacchiello.dev">Email <span aria-hidden="true">↗</span></a>
+          <a href="https://www.youtube.com/channel/UCqkGYVXzZzp4vfprs2k18Kw">YouTube <span aria-hidden="true">↗</span></a>
+        </div>
+      </div>
+      <div class="shell footer-bottom">
+        <span>Community indipendente di sviluppatori a Pisa</span>
+        <span>© {{ 'now' | date: '%Y' }} Montacchiello.dev</span>
+      </div>
+    </footer>
+    <script>
+      (function () {
+        var currentHost = window.location.host;
+
+        document.querySelectorAll('a[href]').forEach(function (link) {
+          var href = link.getAttribute('href');
+          if (!href || href.charAt(0) === '#') return;
+
+          if (/^(mailto:|tel:)/i.test(href)) {
+            link.target = '_blank';
+            link.rel = 'noopener noreferrer';
+            return;
+          }
+
+          try {
+            var url = new URL(href, window.location.href);
+            if ((url.protocol === 'http:' || url.protocol === 'https:') && url.host !== currentHost) {
+              link.target = '_blank';
+              link.rel = 'noopener noreferrer';
+            }
+          } catch (error) {
+            return;
+          }
+        });
+      }());
+    </script>
+    <script>
+      (function () {
+        var root = document.documentElement;
+        var toggle = document.querySelector('[data-theme-toggle]');
+
+        function setTheme(theme) {
+          root.dataset.theme = theme;
+          toggle.setAttribute('aria-label', theme === 'dark' ? 'Attiva il tema chiaro' : 'Attiva il tema scuro');
+          toggle.setAttribute('title', theme === 'dark' ? 'Attiva il tema chiaro' : 'Attiva il tema scuro');
+          localStorage.setItem('montacchiello-theme', theme);
+        }
+
+        setTheme(root.dataset.theme || 'light');
+        toggle.addEventListener('click', function () {
+          setTheme(root.dataset.theme === 'dark' ? 'light' : 'dark');
+        });
+      }());
+    </script>
+    <script>
+      (function () {
+        var gallery = document.querySelector('#gallery + p');
+        var modal = document.querySelector('[data-gallery-modal]');
+        if (!gallery || !modal) return;
+
+        var images = Array.from(gallery.querySelectorAll('img'));
+        var modalImage = modal.querySelector('[data-gallery-image]');
+        var caption = modal.querySelector('[data-gallery-caption]');
+        var previous = modal.querySelector('[data-gallery-prev]');
+        var next = modal.querySelector('[data-gallery-next]');
+        var close = modal.querySelector('[data-gallery-close]');
+        var activeIndex = 0;
+        var lastFocused;
+
+        function showImage(index) {
+          activeIndex = (index + images.length) % images.length;
+          var image = images[activeIndex];
+          modalImage.src = image.src;
+          modalImage.alt = image.alt;
+          caption.textContent = image.alt + ' (' + (activeIndex + 1) + ' / ' + images.length + ')';
+          previous.hidden = images.length < 2;
+          next.hidden = images.length < 2;
+        }
+
+        function openGallery(index) {
+          lastFocused = document.activeElement;
+          showImage(index);
+          modal.hidden = false;
+          document.body.classList.add('gallery-open');
+          close.focus();
+        }
+
+        function closeGallery() {
+          modal.hidden = true;
+          document.body.classList.remove('gallery-open');
+          modalImage.src = '';
+          if (lastFocused) lastFocused.focus();
+        }
+
+        images.forEach(function (image, index) {
+          image.classList.add('gallery-image');
+          image.tabIndex = 0;
+          image.setAttribute('role', 'button');
+          image.addEventListener('click', function () { openGallery(index); });
+          image.addEventListener('keydown', function (event) {
+            if (event.key === 'Enter' || event.key === ' ') {
+              event.preventDefault();
+              openGallery(index);
+            }
+          });
+        });
+
+        previous.addEventListener('click', function () { showImage(activeIndex - 1); });
+        next.addEventListener('click', function () { showImage(activeIndex + 1); });
+        close.addEventListener('click', closeGallery);
+        modal.addEventListener('click', function (event) {
+          if (event.target === modal) closeGallery();
+        });
+        document.addEventListener('keydown', function (event) {
+          if (modal.hidden) return;
+          if (event.key === 'Escape') closeGallery();
+          if (event.key === 'ArrowLeft') showImage(activeIndex - 1);
+          if (event.key === 'ArrowRight') showImage(activeIndex + 1);
+        });
+      }());
+    </script>
+  </body>
+</html>

@@ -2,6 +2,7 @@
 layout: default
 title: Virtual Beer ~ Immutable operating systems
 image: /images/logo-virtual-beer.png
+permalink: /events/2021-04-virtual-beer-immutable-operating-systems/
 ---
 
 ## Prossima Virtual Beer a tema: sistemi operativi immutabili!
@@ -21,4 +22,4 @@ sarà inviato la mattina del giorno dell'evento agli iscritti alla nostra
 <button onclick="location.href='http://eepurl.com/gqRfon'" type="button">
          Iscriviti alla newsletter per partecipare 📨</button>
 
-[Torna alla Homepage](../)
+[Torna alla Homepage](/)

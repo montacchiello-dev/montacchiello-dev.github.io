@@ -2,6 +2,7 @@
 layout: default
 title: Virtual Beer v0
 image: /images/logo-virtual-beer.png
+permalink: /events/2021-virtual-beer-v0/
 ---
 
 ## È tempo della prima Virtual Beer!
@@ -27,4 +28,4 @@ inviato a 24 ore dall'evento agli iscritti alla nostra
 <button onclick="location.href='http://eepurl.com/gqRfon'" type="button">
          Iscriviti alla newsletter per partecipare 📨</button>
 
-[Torna alla Homepage](../)
+[Torna alla Homepage](/)
