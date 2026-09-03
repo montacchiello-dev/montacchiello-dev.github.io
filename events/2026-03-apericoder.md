@@ -2,6 +2,7 @@
 layout: default
 title: Apericoder marzo 2026
 image: /images/2026-03-19-apericoder-1.jpg
+permalink: /events/2026-03-apericoder/
 ---
 
 
@@ -32,4 +33,4 @@ Post di Chiara Corrado su [LinkedIn](https://www.linkedin.com/posts/chiaracorrad
 
 ![apericoder marzo 2026](/images/2026-03-19-apericoder-2.jpg)
 
-[Torna alla Homepage](../)
+[Torna alla Homepage](/)

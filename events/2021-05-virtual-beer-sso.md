@@ -2,6 +2,7 @@
 layout: default
 title: Virtual Beer ~ Autenticazione utenti
 image: /images/logo-virtual-beer.png
+permalink: /events/2021-05-virtual-beer-sso/
 ---
 
 ## Prossima Virtual Beer a tema: Autenticazione utenti, costruire la propria soluzione o usare un servizio esterno?
@@ -17,4 +18,4 @@ sarà inviato la mattina del giorno dell'evento agli iscritti alla nostra
 <button onclick="location.href='http://eepurl.com/gqRfon'" type="button">
          Iscriviti alla newsletter per partecipare 📨</button>
 
-[Torna alla Homepage](../)
+[Torna alla Homepage](/)
