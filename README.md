@@ -13,7 +13,6 @@ Siamo una community indipendente di **sviluppatori software** professionisti a *
 * 2026-05-13 - [gRPC nei Microservizi: quando usarlo (e quando no)](https://www.eventbrite.it/e/grpc-nei-microservizi-quando-usarlo-e-quando-no-apericoder-tickets-1988351894040) - [💾 Slides](/slides/2026-05-13-grpc.pdf)
 * 2026-03-19 - [Apericoder 🍹](/events/2026-03-apericoder/)
 
-
 <h2 id="archive">Archivio eventi</h2>
 
 * 2025-12-10 - Apericoder 🍹
@@ -36,9 +35,9 @@ Siamo una community indipendente di **sviluppatori software** professionisti a *
 
 <h2 id="join">Come partecipare</h2>
 
-- Chatta con noi sul canale [Telegram](https://t.me/joinchat/AB-kXVDvi56sg5ENu1edIA) oppure scrivici una [email](mailto:info@montacchiello.dev).
-- Vuoi proporre un argomento per i prossimi eventi? [Raccontaci la tua idea](https://forms.gle/VVsNwB3J4U6yNRmW7).
-- Vuoi sponsorizzare un nostro evento? Scrivici una [email](mailto:info@montacchiello.dev).
+* Chatta con noi sul canale [Telegram](https://t.me/joinchat/AB-kXVDvi56sg5ENu1edIA) oppure scrivici una [email](mailto:info@montacchiello.dev).
+* Vuoi proporre un argomento per i prossimi eventi? [Raccontaci la tua idea](https://forms.gle/VVsNwB3J4U6yNRmW7).
+* Vuoi sponsorizzare un nostro evento? Scrivici una [email](mailto:info@montacchiello.dev).
 
 <h2 id="sponsor">Sponsor</h2>
 
