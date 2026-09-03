@@ -1,0 +1,5 @@
+default: true
+MD013: false # long-form prose lines are fine
+MD026: false # headings intentionally end with punctuation/emoji
+MD033: false # event pages embed iframes/buttons for video and CTAs
+MD041: false # CLAUDE.md is intentionally just an @AGENTS.md import, no heading
