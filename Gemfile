@@ -1,2 +1,4 @@
 source 'https://rubygems.org'
-gem 'github-pages', group: :jekyll_plugins
+gem 'jekyll', '4.4.1'
+gem 'jekyll-sitemap', group: :jekyll_plugins
+gem 'jekyll-theme-cayman'
