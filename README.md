@@ -7,11 +7,16 @@ image: /images/logo.png
 
 Siamo una community indipendente di **sviluppatori software** professionisti a **Pisa** e dintorni. Promuoviamo la conoscenza condivisa e la collaborazione per migliorarsi, parlando di metodologie e buone pratiche di sviluppo più che di singoli strumenti o tecnologie.
 
-<h2 id="events">Eventi recenti</h2>
+<h2 id="events">Prossimi eventi</h2>
+
+* 2026-10-07 - [AI Agents and How To Secure Them](https://www.eventbrite.it/e/ai-agents-and-how-to-secure-them-apericoder-tickets-2000735178778)
+
+<h2>Eventi recenti</h2>
 
 * 2026-06-18 - [From zero to embedded Linux with Buildroot](https://www.eventbrite.it/e/from-zero-to-embedded-linux-with-buildroot-apericoder-tickets-1990348575167) - [💾 Slides](/slides/2026-06-18-buildroot.pdf)
 * 2026-05-13 - [gRPC nei Microservizi: quando usarlo (e quando no)](https://www.eventbrite.it/e/grpc-nei-microservizi-quando-usarlo-e-quando-no-apericoder-tickets-1988351894040) - [💾 Slides](/slides/2026-05-13-grpc.pdf)
 * 2026-03-19 - [Apericoder 🍹](/events/2026-03-apericoder/)
+
 
 <h2 id="archive">Archivio eventi</h2>
 
@@ -35,9 +40,9 @@ Siamo una community indipendente di **sviluppatori software** professionisti a *
 
 <h2 id="join">Come partecipare</h2>
 
-* Chatta con noi sul canale [Telegram](https://t.me/joinchat/AB-kXVDvi56sg5ENu1edIA) oppure scrivici una [email](mailto:info@montacchiello.dev).
-* Vuoi proporre un argomento per i prossimi eventi? [Raccontaci la tua idea](https://forms.gle/VVsNwB3J4U6yNRmW7).
-* Vuoi sponsorizzare un nostro evento? Scrivici una [email](mailto:info@montacchiello.dev).
+- Chatta con noi sul canale [Telegram](https://t.me/joinchat/AB-kXVDvi56sg5ENu1edIA) oppure scrivici una [email](mailto:info@montacchiello.dev).
+- Vuoi proporre un argomento per i prossimi eventi? [Raccontaci la tua idea](https://forms.gle/VVsNwB3J4U6yNRmW7).
+- Vuoi sponsorizzare un nostro evento? Scrivici una [email](mailto:info@montacchiello.dev).
 
 <h2 id="sponsor">Sponsor</h2>
 
