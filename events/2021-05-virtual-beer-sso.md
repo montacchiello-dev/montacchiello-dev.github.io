@@ -14,5 +14,4 @@ Google Chrome anche senza un account oppure scarica l'app). Il link per accedere
 sarà inviato la mattina del giorno dell'evento agli iscritti sul canale
 [Telegram](https://t.me/joinchat/AB-kXVDvi56sg5ENu1edIA).
 
-
 [Torna alla Homepage](/)
