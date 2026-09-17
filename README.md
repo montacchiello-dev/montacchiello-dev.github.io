@@ -7,7 +7,11 @@ image: /images/logo.png
 
 Siamo una community indipendente di **sviluppatori software** professionisti a **Pisa** e dintorni. Promuoviamo la conoscenza condivisa e la collaborazione per migliorarsi, parlando di metodologie e buone pratiche di sviluppo più che di singoli strumenti o tecnologie.
 
-<h2 id="events">Eventi recenti</h2>
+<h2 id="events">Prossimi eventi</h2>
+
+* 2026-10-07 - [AI Agents and How To Secure Them](https://www.eventbrite.it/e/ai-agents-and-how-to-secure-them-apericoder-tickets-2000735178778)
+
+<h2>Eventi recenti</h2>
 
 * 2026-06-18 - [From zero to embedded Linux with Buildroot](https://www.eventbrite.it/e/from-zero-to-embedded-linux-with-buildroot-apericoder-tickets-1990348575167) - [💾 Slides](/slides/2026-06-18-buildroot.pdf)
 * 2026-05-13 - [gRPC nei Microservizi: quando usarlo (e quando no)](https://www.eventbrite.it/e/grpc-nei-microservizi-quando-usarlo-e-quando-no-apericoder-tickets-1988351894040) - [💾 Slides](/slides/2026-05-13-grpc.pdf)

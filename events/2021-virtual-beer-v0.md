@@ -21,11 +21,7 @@ chiacchierata proseguirà.
 
 L'appuntamento è per venerdì **22 Gennaio alle 18.30**, avrà la durata di un'ora
 circa e si svolgerà su piattaforma **Google Meet**. Il link per accedere sarà
-inviato a 24 ore dall'evento agli iscritti alla nostra
-[newsletter](http://eepurl.com/gqRfon) e sul canale
+inviato a 24 ore dall'evento agli iscritti sul canale
 [Telegram](https://t.me/joinchat/AB-kXVDvi56sg5ENu1edIA).
-
-<button onclick="location.href='http://eepurl.com/gqRfon'" type="button">
-         Iscriviti alla newsletter per partecipare 📨</button>
 
 [Torna alla Homepage](/)
