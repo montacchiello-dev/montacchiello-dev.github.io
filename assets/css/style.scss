@@ -20,15 +20,15 @@
 
 :root[data-theme='dark'] {
   --ink: #f1f2e9;
-  --muted: #b8c1bb;
-  --paper: #17211f;
+  --muted: #c4c4de;
+  --paper: #32325b;
   --white: #f8f8ef;
-  --line: #3b4a45;
-  --green: #0d4038;
+  --line: #53538a;
+  --green: #25254a;
   --coral: #ff947b;
   --yellow: #f5cf67;
-  --header-bg: rgba(23, 33, 31, .97);
-  --card-bg: #22302c;
+  --header-bg: rgba(50, 50, 91, .97);
+  --card-bg: #3c3c6b;
   --card-shadow: 0 8px 24px rgba(0, 0, 0, .2);
 }
 
@@ -54,6 +54,7 @@ a:focus-visible { outline: 3px solid var(--coral); outline-offset: 4px; }
 .site-header { position: sticky; top: 0; z-index: 10; border-bottom: 1px solid var(--line); background: var(--header-bg); box-shadow: 0 2px 12px rgba(32, 43, 43, .04); }
 .header-inner { display: flex; align-items: center; justify-content: space-between; min-height: 60px; gap: 32px; }
 .brand img { display: block; width: 164px; height: auto; }
+:root[data-theme='light'] .logo-dark, :root[data-theme='dark'] .logo-light { display: none; }
 .site-nav { display: flex; align-items: center; gap: 30px; font-size: 14px; font-weight: 700; }
 .site-nav a { text-decoration: none; }
 .site-nav .nav-cta { padding: 9px 15px; border: 1px solid var(--ink); border-radius: 100px; }
