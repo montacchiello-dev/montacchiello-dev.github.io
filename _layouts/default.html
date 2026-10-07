@@ -22,14 +22,15 @@
     <header class="site-header">
       <div class="shell header-inner">
         <a class="brand" href="{{ '/' | relative_url }}" aria-label="Montacchiello.dev, home">
-          <img src="{{ '/images/logo.png' | relative_url }}" alt="Montacchiello.dev">
+          <img class="logo-light" src="{{ '/images/logo-light.png' | relative_url }}" alt="Montacchiello.dev">
+          <img class="logo-dark" src="{{ '/images/logo.png' | relative_url }}" alt="Montacchiello.dev">
         </a>
         <nav class="site-nav" aria-label="Navigazione principale">
           <a href="{{ '/' | relative_url }}#events">Eventi</a>
           <a href="{{ '/' | relative_url }}#archive">Archivio</a>
           <a href="{{ '/' | relative_url }}#join">Partecipa</a>
           <a href="{{ '/' | relative_url }}#gallery">Galleria</a>
-          <a class="nav-cta" href="mailto:info@montacchiello.dev">Contatti <span aria-hidden="true">↗</span></a>
+          <a class="nav-cta" href="{{ '/' | relative_url }}#contacts">Contatti <span aria-hidden="true">↗</span></a>
           <div class="theme-switch">
             <button type="button" data-theme-toggle aria-label="Attiva il tema scuro" title="Attiva il tema scuro"><span class="theme-icon-light" aria-hidden="true">&#9788;</span><span class="theme-icon-dark" aria-hidden="true">&#9790;</span></button>
           </div>
@@ -67,7 +68,7 @@
         </div>
         <div class="footer-links">
           <a href="https://t.me/joinchat/AB-kXVDvi56sg5ENu1edIA">Telegram <span aria-hidden="true">↗</span></a>
-          <a href="mailto:info@montacchiello.dev">Email <span aria-hidden="true">↗</span></a>
+          <a href="{{ '/' | relative_url }}#contacts">Contatti <span aria-hidden="true">↗</span></a>
           <a href="https://www.youtube.com/channel/UCqkGYVXzZzp4vfprs2k18Kw">YouTube <span aria-hidden="true">↗</span></a>
         </div>
       </div>

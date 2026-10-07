@@ -39,9 +39,9 @@ Siamo una community indipendente di **sviluppatori software** professionisti a *
 
 <h2 id="join">Come partecipare</h2>
 
-* Chatta con noi sul canale [Telegram](https://t.me/joinchat/AB-kXVDvi56sg5ENu1edIA) oppure scrivici una [email](mailto:info@montacchiello.dev).
+* Chatta con noi sul canale [Telegram](https://t.me/joinchat/AB-kXVDvi56sg5ENu1edIA) oppure [scrivici un messaggio](#contacts).
 * Vuoi proporre un argomento per i prossimi eventi? [Raccontaci la tua idea](https://forms.gle/VVsNwB3J4U6yNRmW7).
-* Vuoi sponsorizzare un nostro evento? Scrivici una [email](mailto:info@montacchiello.dev).
+* Vuoi sponsorizzare un nostro evento? [Scrivici un messaggio](#contacts).
 
 <h2 id="sponsor">Sponsor</h2>
 
@@ -51,7 +51,7 @@ Siamo una community indipendente di **sviluppatori software** professionisti a *
   </a>
 </div>
 
-Vuoi sponsorizzare un nostro evento? Scrivici una [email](mailto:info@montacchiello.dev).
+Vuoi sponsorizzare un nostro evento? [Scrivici un messaggio](#contacts).
 
 <h2 id="gallery">Galleria</h2>
 
@@ -65,3 +65,26 @@ Vuoi sponsorizzare un nostro evento? Scrivici una [email](mailto:info@montacchie
 ![apericoder luglio 2019](/images/2019-07-25-docker-containers.jpeg)
 ![apericoder giugno 2019](/images/2019-06-27-code-reviews.jpeg)
 ![apericoder maggio 2019](/images/2019-05-16-andrea-chiarelli.jpeg)
+
+<h2 id="contacts">Contatti</h2>
+
+Scrivici con il modulo qui sotto, oppure entra nel nostro canale Telegram: lì annunciamo i nuovi eventi e si chiacchiera tra sviluppatori. Inquadra il QR code con il telefono per unirti.
+
+<form class="contact-form" action="https://formspree.io/f/xyekeedn" method="POST">
+  <label>
+    La tua email
+    <input type="email" name="email" required autocomplete="email">
+  </label>
+  <label>
+    Il tuo messaggio
+    <textarea name="message" rows="5" required></textarea>
+  </label>
+  <button type="submit">Invia</button>
+</form>
+
+<div class="contact-qr">
+  <a href="https://t.me/joinchat/AB-kXVDvi56sg5ENu1edIA" aria-label="Entra nel canale Telegram di Montacchiello.dev">
+    <img src="/images/telegram-qr.svg" alt="QR code per entrare nel canale Telegram di Montacchiello.dev">
+    <span>Entra nel canale Telegram</span>
+  </a>
+</div>
