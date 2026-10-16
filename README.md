@@ -9,7 +9,7 @@ Siamo una community indipendente di **sviluppatori software** professionisti a *
 
 <h2 id="events">Prossimi eventi</h2>
 
-* 2026-11-11 - [Dal prompt al processo. Un anno con i coding agent]()
+* 2026-11-11 - [Dal prompt al processo. Un anno con i coding agent](#)
 
 <h2>Eventi recenti</h2>
 
