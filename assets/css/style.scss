@@ -16,6 +16,7 @@
   --header-bg: rgba(245, 243, 237, .94);
   --card-bg: #fffdf8;
   --hero-bg: #e7eee6;
+  --link-hover: #1a5c49;
   --card-shadow: 0 12px 32px rgba(30, 48, 41, .07);
 }
 
@@ -31,6 +32,7 @@
   --header-bg: rgba(50, 50, 91, .97);
   --card-bg: #3c3c6b;
   --hero-bg: #414175;
+  --link-hover: #ff947b;
   --card-shadow: 0 8px 24px rgba(0, 0, 0, .2);
 }
 
@@ -49,8 +51,7 @@ body {
 }
 
 a { color: inherit; text-decoration-thickness: 1px; text-underline-offset: 4px; }
-a:hover { color: var(--green); }
-:root[data-theme='dark'] a:hover { color: var(--coral); }
+a:hover { color: var(--link-hover); }
 a:focus-visible { outline: 3px solid var(--coral); outline-offset: 4px; }
 
 .shell { width: var(--shell); margin: 0 auto; }
@@ -133,7 +134,7 @@ a:focus-visible { outline: 3px solid var(--coral); outline-offset: 4px; }
 .event-page .page-content { max-width: 900px; }
 .breadcrumb { padding-top: 28px; font-size: 14px; font-weight: 700; }
 .breadcrumb a { color: var(--muted); text-decoration: none; }
-.breadcrumb a:hover { color: var(--green); }
+.breadcrumb a:hover { color: var(--link-hover); }
 .event-cover { width: min(100%, 760px); margin: 0 0 38px; overflow: hidden; border-radius: 20px; background: var(--green); box-shadow: var(--card-shadow); }
 .event-cover img { display: block; width: 100%; max-height: 440px; object-fit: cover; }
 .event-page .page-content > h1 { font-size: clamp(2.8rem, 6vw, 5.2rem); }
