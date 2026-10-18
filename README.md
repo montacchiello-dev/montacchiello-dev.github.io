@@ -57,6 +57,7 @@ Vuoi sponsorizzare un nostro evento? [Scrivici un messaggio](#contacts).
 
 <h2 id="gallery">Galleria</h2>
 
+![apericoder ottobre 2026](/images/2026-10-07-sicurezza-ai-agent.jpg)
 ![apericoder giugno 2026](/images/2026-06-18-buildroot-apericoder.jpg)
 ![apericoder marzo 2026](/images/2026-03-19-apericoder-1.jpg)
 ![apericoder dicembre 2025](/images/2025-12-10-apericoder.jpg)
