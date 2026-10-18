@@ -9,9 +9,11 @@ Siamo una community indipendente di **sviluppatori software** professionisti a *
 
 <h2 id="events">Prossimi eventi</h2>
 
-* 2026-10-07 - [AI Agents and How To Secure Them](https://www.eventbrite.it/e/ai-agents-and-how-to-secure-them-apericoder-tickets-2000735178778)
+* 2026-11-11 - [Dal prompt al processo. Un anno con i coding agent](https://www.eventbrite.it/e/dal-prompt-al-processo-un-anno-con-i-coding-agent-apericoder-tickets-2003548309929)
 
 <h2>Eventi recenti</h2>
+
+* 2026-10-07 - [AI Agents and How To Secure Them](https://www.eventbrite.it/e/ai-agents-and-how-to-secure-them-apericoder-tickets-2000735178778) - [💾 Slides](/slides/2026-10-07-ai-agents-and-how-to-secure-them.pdf)
 
 * 2026-06-18 - [From zero to embedded Linux with Buildroot](https://www.eventbrite.it/e/from-zero-to-embedded-linux-with-buildroot-apericoder-tickets-1990348575167) - [💾 Slides](/slides/2026-06-18-buildroot.pdf)
 * 2026-05-13 - [gRPC nei Microservizi: quando usarlo (e quando no)](https://www.eventbrite.it/e/grpc-nei-microservizi-quando-usarlo-e-quando-no-apericoder-tickets-1988351894040) - [💾 Slides](/slides/2026-05-13-grpc.pdf)
