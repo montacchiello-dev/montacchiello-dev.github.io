@@ -20,16 +20,17 @@
 }
 
 :root[data-theme='dark'] {
-  --ink: #f2f0e8;
-  --muted: #b8c5bb;
-  --paper: #17251f;
-  --line: #3a4d42;
-  --green: #25483a;
-  --coral: #e9876d;
-  --yellow: #f0cb79;
-  --header-bg: rgba(23, 37, 31, .96);
-  --card-bg: #20342b;
-  --hero-bg: #233d31;
+  --ink: #f1f2e9;
+  --muted: #c4c4de;
+  --paper: #32325b;
+  --white: #f8f8ef;
+  --line: #53538a;
+  --green: #25254a;
+  --coral: #ff947b;
+  --yellow: #f5cf67;
+  --header-bg: rgba(50, 50, 91, .97);
+  --card-bg: #3c3c6b;
+  --hero-bg: #414175;
   --card-shadow: 0 8px 24px rgba(0, 0, 0, .2);
 }
 
@@ -49,6 +50,7 @@ body {
 
 a { color: inherit; text-decoration-thickness: 1px; text-underline-offset: 4px; }
 a:hover { color: var(--green); }
+:root[data-theme='dark'] a:hover { color: var(--coral); }
 a:focus-visible { outline: 3px solid var(--coral); outline-offset: 4px; }
 
 .shell { width: var(--shell); margin: 0 auto; }
@@ -57,6 +59,7 @@ a:focus-visible { outline: 3px solid var(--coral); outline-offset: 4px; }
 .header-inner { display: flex; align-items: center; justify-content: space-between; min-height: 122px; gap: 32px; }
 .brand { display: block; flex: 0 0 110px; width: 110px; height: 110px; overflow: hidden; border-radius: 12px; background: #f4f5ef; text-decoration: none; }
 .brand img { display: block; width: 110px; height: 110px; max-width: none; }
+:root[data-theme='light'] .logo-dark, :root[data-theme='dark'] .logo-light { display: none; }
 .site-nav { display: flex; align-items: center; gap: 26px; font-size: 14px; font-weight: 700; }
 .site-nav a { text-decoration: none; }
 .site-nav > a:not(.nav-cta) { position: relative; padding: 8px 0; color: var(--muted); transition: color .2s ease; }
@@ -84,13 +87,15 @@ a:focus-visible { outline: 3px solid var(--coral); outline-offset: 4px; }
 .home .page-content > h2, .home .page-content > h2[id] { scroll-margin-top: 112px; }
 .home .page-content > p:first-child { position: relative; isolation: isolate; overflow: hidden; max-width: none; margin: 0 0 50px; padding: clamp(28px, 5vw, 58px); border: 1px solid rgba(26, 92, 73, .12); border-radius: 24px; background: radial-gradient(ellipse at 94% 15%, rgba(233, 189, 97, .22), transparent 31%), var(--hero-bg); box-shadow: var(--card-shadow); color: var(--muted); font-size: clamp(1.1rem, 2vw, 1.35rem); line-height: 1.7; }
 .home .page-content > p:first-child strong { color: var(--green); }
-:root[data-theme='dark'] .home .page-content > h1 + p strong { color: #9ac8aa; }
+:root[data-theme='dark'] .home .page-content > p:first-child { border-color: rgba(244, 201, 93, .16); }
+:root[data-theme='dark'] .home .page-content > p:first-child strong { color: var(--coral); }
 
 #events, #archive, #join, #sponsor, #gallery, #contacts { padding-top: 32px; border-top: 1px solid var(--line); }
 #events + ul, .home .page-content > h2:nth-of-type(2) + ul, #archive + ul { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 18px; max-width: none; padding: 0; list-style: none; }
 #events + ul li, .home .page-content > h2:nth-of-type(2) + ul li, #archive + ul li { min-height: 100px; margin: 0; padding: 22px 24px; border: 1px solid var(--line); border-radius: 16px; background: var(--card-bg); box-shadow: var(--card-shadow); transition: transform .2s ease, border-color .2s ease, box-shadow .2s ease; }
 #events + ul li:first-child { grid-column: 1 / -1; min-height: 122px; padding: 28px 30px; border-left: 4px solid var(--coral); background: linear-gradient(115deg, var(--hero-bg), var(--card-bg)); }
 #events + ul li:hover, .home .page-content > h2:nth-of-type(2) + ul li:hover, #archive + ul li:hover { transform: translateY(-3px); border-color: var(--coral); box-shadow: 0 16px 34px rgba(30, 48, 41, .12); }
+:root[data-theme='dark'] #events + ul li:hover, :root[data-theme='dark'] .home .page-content > h2:nth-of-type(2) + ul li:hover, :root[data-theme='dark'] #archive + ul li:hover { box-shadow: 0 16px 34px rgba(0, 0, 0, .35); }
 #events + ul li a, .home .page-content > h2:nth-of-type(2) + ul li a, #archive + ul li a { font-weight: 700; text-decoration-thickness: 1.5px; }
 #join + ul { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 14px; max-width: none; padding: 0; list-style: none; }
 #join + ul li { margin: 0; padding: 20px; border: 1px solid var(--line); border-radius: 16px; background: var(--card-bg); }
