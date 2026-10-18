@@ -1,8 +1,9 @@
 # Montacchiello.dev
 
 Jekyll site for Montacchiello Developers, an independent software developer community in
-Pisa, Italy. Built with `jekyll-theme-cayman` (no custom layouts/includes — theme defaults
-are used as-is). Deployed to <https://montacchiello.dev> via GitHub Pages.
+Pisa, Italy. Layouts and styles are local (`_layouts/`, `assets/css/`), with no theme gem.
+Cloudflare Pages builds every push to `master`; GitHub Pages still serves the custom domain
+until the DNS record moves.
 
 ## Structure
 
@@ -10,7 +11,7 @@ are used as-is). Deployed to <https://montacchiello.dev> via GitHub Pages.
 - `events/` — one Markdown page per past event, front matter `layout`, `title`, `image`.
 - `slides/` — PDF slide decks linked from event entries.
 - `images/` — event photos and logos referenced from `index.md` and event pages.
-- `_config.yml` — site title, description, theme, plugins (`jekyll-sitemap`).
+- `_config.yml` — site title, description, plugins (`jekyll-sitemap`).
 - `CNAME` — custom domain for GitHub Pages.
 
 ## Working locally

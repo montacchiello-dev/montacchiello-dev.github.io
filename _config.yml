@@ -1,9 +1,11 @@
-theme: jekyll-theme-cayman
 url: https://montacchiello.dev
 baseurl:
 title: Montacchiello Developers
 description: Community indipendente di sviluppatori software professionisti a Pisa e dintorni
 google_analytics: UA-107557-24
+exclude:
+  - AGENTS.md
+  - CLAUDE.md
 github:
   is_project_page: false
 plugins:
