@@ -1,4 +1,4 @@
-name: pre-checks
+name: ci
 
 on:
   pull_request:
