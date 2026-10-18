@@ -17,6 +17,7 @@
   --card-bg: #fffdf8;
   --hero-bg: #e7eee6;
   --link-hover: #1a5c49;
+  --brand-bg: #f4f5ef;
   --card-shadow: 0 12px 32px rgba(30, 48, 41, .07);
 }
 
@@ -33,6 +34,7 @@
   --card-bg: #3c3c6b;
   --hero-bg: #414175;
   --link-hover: #ff947b;
+  --brand-bg: #32325b;
   --card-shadow: 0 8px 24px rgba(0, 0, 0, .2);
 }
 
@@ -58,7 +60,7 @@ a:focus-visible { outline: 3px solid var(--coral); outline-offset: 4px; }
 
 .site-header { position: sticky; top: 0; z-index: 10; border-bottom: 1px solid var(--line); background: var(--header-bg); box-shadow: 0 4px 20px rgba(30, 48, 41, .04); backdrop-filter: blur(16px); }
 .header-inner { display: flex; align-items: center; justify-content: space-between; min-height: 122px; gap: 32px; }
-.brand { display: block; flex: 0 0 110px; width: 110px; height: 110px; overflow: hidden; border-radius: 12px; background: #f4f5ef; text-decoration: none; }
+.brand { display: block; flex: 0 0 110px; width: 110px; height: 110px; overflow: hidden; border-radius: 12px; background: var(--brand-bg); text-decoration: none; }
 .brand img { display: block; width: 110px; height: 110px; max-width: none; }
 :root[data-theme='light'] .logo-dark, :root[data-theme='dark'] .logo-light { display: none; }
 .site-nav { display: flex; align-items: center; gap: 26px; font-size: 14px; font-weight: 700; }
