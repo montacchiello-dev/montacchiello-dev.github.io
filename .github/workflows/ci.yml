@@ -12,6 +12,6 @@ jobs:
     permissions:
       contents: read
     steps:
-      - uses: Alfresco/alfresco-build-tools/.github/actions/pre-commit@v19.4.0
+      - uses: Alfresco/alfresco-build-tools/.github/actions/pre-commit@v19.5.0
         with:
           auto-commit: "false"
